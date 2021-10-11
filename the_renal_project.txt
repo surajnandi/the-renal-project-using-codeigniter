@@ -1,0 +1,25 @@
+The Renal Project Assignment
+
+Admin Login:-
+   url : http://localhost/the_renal_project/admin/login
+   email : admin@gmail.com
+   pass : 12345
+
+Staff Login:-
+    url : http://localhost/the_renal_project/staff/login
+    email : staff@gmail.com
+    pass : 12345
+
+Doctor login:- 
+    url : http://localhost/the_renal_project/doctor/login
+    email : doctor@gmail.com
+    pass : 12345
+
+Database:-
+    name : the_renal_project.sql
+
+Description:- This project create using Codeigniter, Bootstrap, Ajax, jquery, Javascript and MySQL. 
+
+1. Admin Login, Staff Login and Doctor Login with Validation
+2. Patient registration, Staff Registration and Doctor registration with validation and also email and phone no valid check.
+3. Per day patient registration graph.
